@@ -1,7 +1,4 @@
-Landsat8_images/
-
-raw/
-img/
+images/
 weights.h5
 *.npy
 data/
