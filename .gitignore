@@ -6,6 +6,7 @@ train/
 *.tiff
 *.xml
 *.zip
+DEM/
 
 .ipynb_checkpoints/
 .DS_Store
